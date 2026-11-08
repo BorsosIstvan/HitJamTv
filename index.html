@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/video-stream-v1/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HitJam TV</title>
+    
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="/video-stream-v1/manifest.json" />
+    <meta name="theme-color" content="#ff4500" />
+
+    <!-- CDN Hls.js lejátszó a Chrome/Google TV alá -->
+    <script src="https://cloudflare.com"></script>
+
+    <!-- Service Worker Regisztráció -->
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js')
+            .then(reg => console.log('Service Worker sikeresen regisztrálva!', reg.scope))
+            .catch(err => console.log('SW regisztrációs hiba:', err));
+        });
+      }
+    </script>
+    <script type="module" crossorigin src="/video-stream-v1/assets/index-B4KRKqNl.js"></script>
+    <link rel="stylesheet" crossorigin href="/video-stream-v1/assets/index-DpR3YPr-.css">
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>
