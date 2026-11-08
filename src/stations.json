@@ -1,0 +1,128 @@
+[
+  {
+    "id": "duna_world",
+    "name": "Duna World",
+    "genre": "Kulturális és információs műsorok a világ magyarságának",
+    "logo": "🌍",
+    "payload": "https://s5nl2.ppgw2.dediproxy.com:38443/p2p/hl64/chunks.m3u8?nimblesessionid=10007688&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6MjE6NDQgUE0maGFzaF92YWx1ZT1tY0ZvbldPNS9TcDd2bGNGdE12YU1BPT0mdmFsaWRtaW51dGVzPTImaWQ9ODkuMzUuMzQuNzktcGxheTR5b3UubGl2ZXN0cmVhbWxpbmtzLm5ldC0xNzk0MTUxMzA0LU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTcuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+  },
+  {
+    "id": "duna_world_m4_plus",
+    "name": "Duna World / M4+",
+    "genre": "Kulturális műsorok és hétvégi extra sportközvetítések",
+    "logo": "🏟️",
+    "payload": "https://s5nl2.ppgw2.dediproxy.com:38443/p2p/hl64/chunks.m3u8?nimblesessionid=10007216&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6MDY6MzggUE0maGFzaF92YWx1ZT1vYXBJbmdwYUFwcUh3THl1c3orZHd3PT0mdmFsaWRtaW51dGVzPTImaWQ9ODkuMzUuMzQuNzktcGxheTR5b3UubGl2ZXN0cmVhbWxpbmtzLm5ldC0xNzk0MTUwMzk4LU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTcuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+  },
+  {
+    "id": "film_plus",
+    "name": "Film+",
+    "genre": "Sikerfilmek, akciófilmek és kasszasikerek egész nap",
+    "logo": "🎬",
+    "payload": "https://s5nl2.ppgw2.dediproxy.com:38443/p2p/hl3010/chunks.m3u8?nimblesessionid=10007239&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6MDc6MjkgUE0maGFzaF92YWx1ZT1lbEJsSDBYMVpNUTBPVWp6RnhNLy9nPT0mdmFsaWRtaW51dGVzPTImaWQ9ODkuMzUuMzQuNzktcGxheTR5b3UubGl2ZXN0cmVhbWxpbmtzLm5ldC0xNzk0MTUwNDQ5LU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTcuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+  },
+  {
+    "id": "galaxy4",
+    "name": "Galaxy4",
+    "genre": "Szórakoztató sorozatok, bűnügyi történetek és filmek",
+    "logo": "🌌",
+    "payload": "https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8"
+  },
+  {
+    "id": "hir_tv",
+    "name": "HírTV",
+    "genre": "Friss hírek, politikai elemzések és háttérműsorok",
+    "logo": "📰",
+    "payload": "https://s5nl2.ppgw2.dediproxy.com:38443/p2p/hl703/chunks.m3u8?nimblesessionid=10007304&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6MDk6MTEgUE0maGFzaF92YWx1ZT1NVkZ0RGEwbVB4YkRjdTRLYmd1ZXpBPT0mdmFsaWRtaW51dGVzPTImaWQ9ODkuMzUuMzQuNzktcGxheTR5b3UubGl2ZXN0cmVhbWxpbmtzLm5ldC0xNzk0MTUwNTUxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTcuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+  },
+  {
+    "id": "m1",
+    "name": "M1",
+    "genre": "Élő híradók, tudósítások és aktuális események",
+    "logo": "⏱️",
+    "payload": "https://s5nl2.ppgw2.dediproxy.com:38443/p2p/hl601/chunks.m3u8?nimblesessionid=10007620&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6MTk6NTkgUE0maGFzaF92YWx1ZT1LTW4vSWQwV2lVSCtmTlpBd3czL2J3PT0mdmFsaWRtaW51dGVzPTImaWQ9ODkuMzUuMzQuNzktcGxheTR5b3UubGl2ZXN0cmVhbWxpbmtzLm5ldC0xNzk0MTUxMTk5LU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTcuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+  },
+  {
+    "id": "m2",
+    "name": "M2",
+    "genre": "Mesék, gyerekprogramok és ifjúsági műsorok",
+    "logo": "🧸",
+    "payload": "https://s5nl2.ppgw2.dediproxy.com:38443/p2p/hl602/chunks.m3u8?nimblesessionid=10007345&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6MTA6MjMgUE0maGFzaF92YWx1ZT15L0cvTGdGcDE3cGZHSjFBeE8vMTJRPT0mdmFsaWRtaW51dGVzPTImaWQ9ODkuMzUuMzQuNzktcGxheTR5b3UubGl2ZXN0cmVhbWxpbmtzLm5ldC0xNzk0MTUwNjIzLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTcuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+  },
+  {
+    "id": "m4",
+    "name": "M4",
+    "genre": "Kiemelt hazai és nemzetközi sportközvetítések",
+    "logo": "⚽",
+    "payload": "https://s5nl2.ppgw2.dediproxy.com:38443/p2p/hl2001/chunks.m3u8?nimblesessionid=10007373&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6MTE6MzQgUE0maGFzaF92YWx1ZT1MYzJmUlVRTDNSUzZmcHhwV3dZanpBPT0mdmFsaWRtaW51dGVzPTImaWQ9ODkuMzUuMzQuNzktcGxheTR5b3UubGl2ZXN0cmVhbWxpbmtzLm5ldC0xNzk0MTUwNjk0LU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTcuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+  },
+  {
+    "id": "m4_sport",
+    "name": "M4 Sport",
+    "genre": "Élő sportesemények, magazinműsorok és elemzések",
+    "logo": "🏆",
+    "payload": "https://s5nl2.ppgw2.dediproxy.com:38443/p2p/hl2001/chunks.m3u8?nimblesessionid=10007373&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6MTE6MzQgUE0maGFzaF92YWx1ZT1MYzJmUlVRTDNSUzZmcHhwV3dZanpBPT0mdmFsaWRtaW51dGVzPTImaWQ9ODkuMzUuMzQuNzktcGxheTR5b3UubGl2ZXN0cmVhbWxpbmtzLm5ldC0xNzk0MTUwNjk0LU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTcuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+  },
+  {
+    "id": "m4_sport_plus_duna",
+    "name": "M4 Sport+ / Duna",
+    "genre": "Körkapcsolások, extra sportesemények és kulturális tartalom",
+    "logo": "🥇",
+    "payload": "https://s5nl2.ppgw2.dediproxy.com:38443/p2p/hl64/chunks.m3u8?nimblesessionid=10007385&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6MTI6MTcgUE0maGFzaF92YWx1ZT0zYVVKMTIzZ2JrcXlCcXRjK2hHZS9BPT0mdmFsaWRtaW51dGVzPTImaWQ9ODkuMzUuMzQuNzktcGxheTR5b3UubGl2ZXN0cmVhbWxpbmtzLm5ldC0xNzk0MTUwNzM3LU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTcuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+  },
+  {
+    "id": "m5",
+    "name": "M5",
+    "genre": "Kulturális, oktatási és tudományos ismeretterjesztő műsorok",
+    "logo": "🎓",
+    "payload": "https://s5nl2.ppgw2.dediproxy.com:38443/p2p/hl706/chunks.m3u8?nimblesessionid=10007398&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6MTI6NDUgUE0maGFzaF92YWx1ZT1TclRUN050a0ovMEhaTS9zNHE3YXhBPT0mdmFsaWRtaW51dGVzPTImaWQ9ODkuMzUuMzQuNzktcGxheTR5b3UubGl2ZXN0cmVhbWxpbmtzLm5ldC0xNzk0MTUwNzY1LU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTcuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+  },
+  {
+    "id": "mozi_plus",
+    "name": "Mozi+",
+    "genre": "Közönségkedvenc mozifilmek, vígjátékok és drámák",
+    "logo": "🍿",
+    "payload": "https://s5nl2.ppgw2.dediproxy.com:38443/p2p/hl704/chunks.m3u8?nimblesessionid=10007411&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6MTM6MTcgUE0maGFzaF92YWx1ZT1PWHg3VzExVVhKNjlMamY2Uk04U3dRPT0mdmFsaWRtaW51dGVzPTImaWQ9ODkuMzUuMzQuNzktcGxheTR5b3UubGl2ZXN0cmVhbWxpbmtzLm5ldC0xNzk0MTUwNzk3LU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTcuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+  },
+  {
+    "id": "rtl",
+    "name": "RTL",
+    "genre": "Országos főműsoridős show-műsorok, sorozatok és híradó",
+    "logo": "🔴",
+    "payload": "https://s5nl2.ppgw2.dediproxy.com:38443/p2p/hl01/chunks.m3u8?nimblesessionid=10007434&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6MTM6NTQgUE0maGFzaF92YWx1ZT1va1ZQUWc5Y3hhUzI1NUMrWlN3VnlBPT0mdmFsaWRtaW51dGVzPTImaWQ9ODkuMzUuMzQuNzktcGxheTR5b3UubGl2ZXN0cmVhbWxpbmtzLm5ldC0xNzk0MTUwODM0LU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTcuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+  },
+  {
+    "id": "rtl_ii",
+    "name": "RTL II",
+    "genre": "Saját gyártású magazinok, talkshow-k és vígjátékok",
+    "logo": "⭐",
+    "payload": "https://s5nl2.ppgw2.dediproxy.com:38443/p2p/hl1007/chunks.m3u8?nimblesessionid=10007447&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6MTQ6MTYgUE0maGFzaF92YWx1ZT05WC9DVjNvMUlRYitTakRhaU9PWVF3PT0mdmFsaWRtaW51dGVzPTImaWQ9ODkuMzUuMzQuNzktcGxheTR5b3UubGl2ZXN0cmVhbWxpbmtzLm5ldC0xNzk0MTUwODU2LU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTcuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+  },
+  {
+    "id": "rtl_ketto",
+    "name": "RTL Kettő",
+    "genre": "Szórakoztató műsorok, közkedvelt reality-k és sorozatok",
+    "logo": "✌️",
+    "payload": "https://s5nl2.ppgw2.dediproxy.com:38443/p2p/hl1007/chunks.m3u8?nimblesessionid=10007464&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6MTQ6NDAgUE0maGFzaF92YWx1ZT1wKzRwY3VxRGwxNE9VTHZLbmhOazZBPT0mdmFsaWRtaW51dGVzPTImaWQ9ODkuMzUuMzQuNzktcGxheTR5b3UubGl2ZXN0cmVhbWxpbmtzLm5ldC0xNzk0MTUwODgwLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTcuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+  },
+  {
+    "id": "rtl_gold",
+    "name": "RTL Gold",
+    "genre": "A legnagyobb retró sikerműsorok, kvízek és talkshow-k",
+    "logo": "✨",
+    "payload": "https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8"
+  },
+  {
+    "id": "tv2",
+    "name": "TV2",
+    "genre": "Népszerű szórakoztató show-műsorok, családi sorozatok és hírek",
+    "logo": "🍊",
+    "payload": "https://s5nl2.ppgw2.dediproxy.com:38443/p2p/hl02/chunks.m3u8?nimblesessionid=10007494&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6MTU6NDYgUE0maGFzaF92YWx1ZT1oSlZ0K0JBdzBBY2dJdUQxbDBKSWZ3PT0mdmFsaWRtaW51dGVzPTImaWQ9ODkuMzUuMzQuNzktcGxheTR5b3UubGl2ZXN0cmVhbWxpbmtzLm5ldC0xNzk0MTUwOTQ2LU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTcuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+  },
+  {
+    "id": "super_tv2",
+    "name": "Super TV2",
+    "genre": "Prémium sorozatok, saját gyártású reality-k és filmek",
+    "soft_logo": "💥",
+    "payload": "https://s5nl2.ppgw2.dediproxy.com:38443/p2p/hl1008/chunks.m3u8?nimblesessionid=10007510&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6MTY6MTMgUE0maGFzaF92YWx1ZT1iczdteXpNNXhXMEUxeUc1b0lhODNBPT0mdmFsaWRtaW51dGVzPTImaWQ9ODkuMzUuMzQuNzktcGxheTR5b3UubGl2ZXN0cmVhbWxpbmtzLm5ldC0xNzk0MTUwOTczLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTcuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+  }
+]

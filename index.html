@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HitJam TV</title>
+    
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#ff4500" />
+
+    <!-- CDN Hls.js lejátszó a Chrome/Google TV alá -->
+    <script src="https://cloudflare.com"></script>
+
+    <!-- Service Worker Regisztráció -->
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js')
+            .then(reg => console.log('Service Worker sikeresen regisztrálva!', reg.scope))
+            .catch(err => console.log('SW regisztrációs hiba:', err));
+        });
+      }
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
