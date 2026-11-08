@@ -10,14 +10,12 @@
     <link rel="manifest" href="/manifest.json" />
     <meta name="theme-color" content="#ff4500" />
 
-    <!-- CDN Hls.js lejátszó a Chrome/Google TV alá -->
-    <script src="https://cloudflare.com"></script>
-
     <!-- Service Worker Regisztráció -->
     <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-          navigator.serviceWorker.register('/sw.js')
+          // A hatókört (scope) kötelező korlátozni a GitHub Pages alkönyvtárára
+          navigator.serviceWorker.register('sw.js', { scope: './' })
             .then(reg => console.log('Service Worker sikeresen regisztrálva!', reg.scope))
             .catch(err => console.log('SW regisztrációs hiba:', err));
         });

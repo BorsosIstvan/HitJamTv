@@ -1,11 +1,12 @@
 const CACHE_NAME = 'hitjam-tv-v1';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/src/main.js',
-  '/src/App.vue',
-  '/src/style.css'
+  './',
+  'index.html',
+  'manifest.json',
+  'favicon.svg',
+  'sw.js'
 ];
+
 
 // Telepítés és cache-elés
 self.addEventListener('install', (e) => {
